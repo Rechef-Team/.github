@@ -2,16 +2,18 @@
 
 ## Introduction
 
-New way to reduce your garbage at home, check your garbage type, make order, and turn your garbage to money 💰.
+Lorem Ipsum dolor sit amet Lorem Ipsum dolor sit amet
 
-From this project we hope we can solve our waste problem.
+Lorem Ipsum dolor sit amet.
 
 ## Capstone Project Bangkit Member
 
 | Team Name                 | Bangkit Id  | Github                                              |
 | ------------------------- | ----------- | --------------------------------------------------- |
-| Andhika Lingga Mariano    |             | [Deekuh](https://github.com/Deekuh)                 |
-| Gemilang Tirto I S        |             | [Estrella](https://github.com/Estrella-1234)        |
-| Akmal                     |             | [Akmal](https://github.com/afsulthon)               |
-| Ryan Purnomo              |             | [Ryan Purnomo](https://github.com/ryanpurnomo83/)   |
-| Hafiz Rizky               |             | [Hafiz Rizky](https://github.com/hafizky12/)        |
+| Andhika Lingga Mariano    | A004D4KY3744| [Deekuh](https://github.com/Deekuh)                 |
+| Gemilang Tirto I S        | A179D4KY3822| [Estrella](https://github.com/Estrella-1234)        |
+| Akmal                     | C004D4KY1330| [Akmal](https://github.com/afsulthon)               |
+| Ryan Purnomo              | C007D4KY0217| [Ryan Purnomo](https://github.com/ryanpurnomo83/)   |
+| Hafiz Rizky               | M007D4KY1559| [Hafiz Rizky](https://github.com/hafizky12/)        |
+| Widian Sasi Disertasiani  | M004D4KX2669| [Github](https://github.com)                        |
+| Muhammad Hafizh Fadhilah  | M010D4KY2310| [Github](https://github.com)                        |
