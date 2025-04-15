@@ -11,7 +11,7 @@ Our mission is to help you minimize food waste, discover new recipes, and make c
 | Name                            | Bangkit ID   | GitHub Profile                                      |
 | -------------------------       | -----------  | --------------------------------------------------- |
 | Andhika Lingga Mariano          | A004D4KY3744 | [Deekuh](https://github.com/Deekuh)                 |
-| Gemilang Tirto Ismoyo Santoso   | A179D4KY3822 | [Estrella-1234](https://github.com/Estrella-1234)   |
+| Gemilang Tirto Ismoyo Santoso   | A179D4KY3822 | [StreamLine-18](https://github.com/StreamLine-18)   |
 | Akmal Sulthon Fathulloh         | C004D4KY1330 | [afsulthon](https://github.com/afsulthon)           |
 | Ryan Purnomo                    | C007D4KY0217 | [ryanpurnomo83](https://github.com/ryanpurnomo83)   |
 | Muhammad Hafiz Rizky P          | M007D4KY1559 | [hafizky12](https://github.com/hafizky12)           |
